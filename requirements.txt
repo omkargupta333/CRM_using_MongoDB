@@ -1,0 +1,8 @@
+streamlit
+pymongo
+gridfs
+Pillow
+smtplib
+plotly
+email
+
